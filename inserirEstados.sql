@@ -29,3 +29,8 @@ VALUES
     ('Sergipe', 'SE', 'Nordeste', 2.29),
     ('Tocantins', 'TO', 'Norte', 1.55);
     
+
+INSERT INTO estados
+    (nome, sigla, regiao, populacao)
+VALUES
+    ('Paraná', 'PR', 'Sul', 15.80);
