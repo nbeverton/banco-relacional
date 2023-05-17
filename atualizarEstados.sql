@@ -13,3 +13,7 @@ where sigla = 'GO'
 update `estados`
 set nome = 'Ceará'
 where sigla = 'CE'
+
+update `estados`
+set id = 28
+where sigla = 'TO'
