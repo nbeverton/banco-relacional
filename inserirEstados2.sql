@@ -2,10 +2,6 @@
 INSERT INTO estados
     (nome, sigla, regiao, populacao)
 VALUES
-    ('Acre', 'AC', 'Norte', 0.83),
-    ('Alagoas', 'AL', 'Nordeste', 0.38),
-    ('Amapá', 'AP', 'Norte', 0.8),
-    ('Amazonas', 'AM', 'Norte', 4.06),
     ('Bahia', 'BA', 'Nordeste', 15.34),
     ('Ceara', 'CE', 'Nordeste', 9.02),
     ('Distrito Federal', 'DF', 'Centro-Oeste', 3.04),
@@ -28,4 +24,3 @@ VALUES
     ('São Paulo', 'SP', 'Sudeste', 45.10),
     ('Sergipe', 'SE', 'Nordeste', 2.29),
     ('Tocantins', 'TO', 'Norte', 1.55);
-    
